@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+.companies-wrapper {
+    max-width: 600px;
+}
+/* .companies-hor {
+    display: flex;
+}
+
+.glo-slider {
+    border-color: solid 1px black;
+} */
